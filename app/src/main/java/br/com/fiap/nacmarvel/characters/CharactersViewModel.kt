@@ -39,11 +39,10 @@ class CharactersViewModel(
                 characterLiveDate.postValue(characterDataWrapper.data?.results)
 
                 //Atualizar banco local
-                /*
                 result?.let {
                     characterDAO.deleteAll()
                     characterDAO.insert(*result.toTypedArray())
-                }*/
+                }
             } catch (t: Throwable) {
                 error.postValue(true)
             }
