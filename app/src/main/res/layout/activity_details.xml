@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".DetailsActivity">
+
+        <TextView
+            android:id="@+id/textViewNome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10sp"
+            android:text="TextView"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            tools:layout_editor_absoluteX="200dp"
+            tools:layout_editor_absoluteY="188dp" />
+
+        <TextView
+            android:id="@+id/textViewDescricao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="13sp"
+            android:text="TextView"
+            android:textSize="18sp"
+            tools:layout_editor_absoluteX="200dp"
+            tools:layout_editor_absoluteY="188dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10sp"
+            android:text="Comics 📚"
+            android:textSize="19sp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            tools:layout_editor_absoluteX="200dp"
+            tools:layout_editor_absoluteY="188dp" />
+
+        <TextView
+            android:id="@+id/textViewComics"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="13sp"
+            android:text="TextView"
+            android:textSize="18sp"
+            tools:layout_editor_absoluteX="200dp"
+            tools:layout_editor_absoluteY="188dp" />
+
+    </LinearLayout>
+</ScrollView>
