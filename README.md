@@ -22,7 +22,7 @@
         </table>
 </div>
 
-
+---
 Aplicativo de listagem de superheróis e visualização de detalhes como descrição e lista de quadrinhos os quais ele participou. Foi implentada a arquitetura MVVM com as tecnologias listadas abaixo.
 
 Prova desenvolvida na matéria de DESENVOLVIMENTO MOBILE, GAMES E INTERNET DAS COISAS.
@@ -47,4 +47,3 @@ Prova desenvolvida na matéria de DESENVOLVIMENTO MOBILE, GAMES E INTERNET DAS C
 
 - Jean Jacques Nascimento Barros – RM 81524
 - Gabriel Siqueira Petillo – RM 81238
----
