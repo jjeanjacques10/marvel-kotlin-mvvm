@@ -19,10 +19,11 @@
                 </br>
             </td>
         </tr>
-        </table>
+     </table>
 </div>
 
----
+## Sobre
+
 Aplicativo de listagem de superheróis e visualização de detalhes como descrição e lista de quadrinhos os quais ele participou. Foi implentada a arquitetura MVVM com as tecnologias listadas abaixo.
 
 Prova desenvolvida na matéria de DESENVOLVIMENTO MOBILE, GAMES E INTERNET DAS COISAS.
