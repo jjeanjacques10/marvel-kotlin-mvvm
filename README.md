@@ -28,6 +28,17 @@ Aplicativo de listagem de superheróis e visualização de detalhes como descri�
 
 Prova desenvolvida na matéria de DESENVOLVIMENTO MOBILE, GAMES E INTERNET DAS COISAS.
 
+### Configurando a API Marvel
+
+Adicione a chave pública e privada no arquivo: **[MarvelService.kt](https://github.com/jjeanjacques10/marvel-kotlin-mvvm/blob/master/app/src/main/java/br/com/fiap/nacmarvel/service/MarvelService.kt)**
+
+```
+val PUBLIC_API_KEY = ""
+val PRIVATE_API_KEY = ""
+```
+
+Para adquirir as chaves acesse o site [Marvel - Developer Portal](https://developer.marvel.com/)
+
 ## Faculdade
 
 [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/)
